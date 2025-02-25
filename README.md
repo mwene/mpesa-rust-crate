@@ -1,19 +1,19 @@
-# Ensure the environmental variables are set:
-export MPESA_MPESA_BASE_URL="https://sandbox.safaricom.co.ke"
-export MPESA_MPESA_CONSUMER_KEY="your_consumer_key"
-export MPESA_MPESA_CONSUMER_SECRET="your_consumer_secret"
-export MPESA_MPESA_PASSKEY="your_passkey"
-export MPESA_MPESA_CALLBACK_URL="https://yourcallback.com"
-export MPESA_MPESA_ENVIRONMENT="sandbox"
-export MPESA_MPESA_CALLBACK_PORT="your listener port"
-export MPESA_MPESA_BUSINESS_SHORT_CODE="your short code"
-export MPESA_MPESA_PARTY_B="party b, probably similar to short code but ask to confirm"
-export MPESA_MPESA_CERTIFICATE_PATH="path to the certificate.pem"
-export MPESA_DATABASE_USERNAME="postgres"
-export MPESA_DATABASE_PASSWORD="password"
-export MPESA_DATABASE_HOST="localhost"
-export MPESA_DATABASE_PORT=5432
-export MPESA_DATABASE_DATABASE_NAME="mpesa"
+# Ensure the environmental variables are set: Bash or wherever it is that you set environmental variables
+## export MPESA_MPESA_BASE_URL="https://sandbox.safaricom.co.ke"
+## export MPESA_MPESA_CONSUMER_KEY="your_consumer_key"
+## export MPESA_MPESA_CONSUMER_SECRET="your_consumer_secret"
+## export MPESA_MPESA_PASSKEY="your_passkey"
+## export MPESA_MPESA_CALLBACK_URL="https://yourcallback.com"
+## export MPESA_MPESA_ENVIRONMENT="sandbox"
+## export MPESA_MPESA_CALLBACK_PORT="your listener port"
+## export MPESA_MPESA_BUSINESS_SHORT_CODE="your short code"
+## export MPESA_MPESA_PARTY_B="party b, probably similar to short code but ask to confirm"
+## export MPESA_MPESA_CERTIFICATE_PATH="path to the certificate.pem"
+## export MPESA_DATABASE_USERNAME="postgres"
+## export MPESA_DATABASE_PASSWORD="password"
+## export MPESA_DATABASE_HOST="localhost"
+## export MPESA_DATABASE_PORT=5432
+## export MPESA_DATABASE_DATABASE_NAME="mpesa"
 
 
 # Example Usage of the crate:
