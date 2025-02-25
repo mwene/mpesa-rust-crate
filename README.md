@@ -1,4 +1,4 @@
-#Ensure the environmental variables are set:
+# Ensure the environmental variables are set:
 export MPESA_MPESA_BASE_URL="https://sandbox.safaricom.co.ke"
 export MPESA_MPESA_CONSUMER_KEY="your_consumer_key"
 export MPESA_MPESA_CONSUMER_SECRET="your_consumer_secret"
